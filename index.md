@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages - Main
 
-[myCV](main/documents/ASalvati_CV.pdf)
+[myCV](andrea.salvati.github.io/documents/ASalvati_CV.pdf)
 
 You can use the [editor on GitHub](https://github.com/a-salv/andreasalvati.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
